@@ -4,7 +4,8 @@ Welcome to the **NLP - University** repository! This repository contains all my 
 
 
 ## 📚 Repository Overview  
-- **Course**: Natural Language Processing (NLP)  
+- **Course**: Natural Language Processing (NLP)
+- **GPA Achieved**: 3.2
 - **Content**:  
   - Assignments and solutions  
   - Lecture notes and learning resources  
