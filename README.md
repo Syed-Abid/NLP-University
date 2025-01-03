@@ -34,3 +34,11 @@ Welcome to the **NLP - University** repository! This repository contains all my 
 - Named Entity Recognition (NER)  
 - Sequence-to-Sequence Models  
 - Transformer-based Models (e.g., BERT, GPT)  
+
+
+## 📬 Contact
+
+Questions or suggestions? Reach out to me:
+
+- **Syed Abid Hassan**
+- **Email:** [abidhassanjaffri31@gmail.com](mailto:abidhassanjaffri31@gmail.com)
